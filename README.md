@@ -1,6 +1,6 @@
 # Breame
 
-<p align="center"> ( <b>Br</b>itish <b>E</b>nglish and <b>Am</b>erican <b>E</b>nglish Language Tools) </p>
+<p align="center"> ( <b>Br</b>itish <b>E</b>nglish and <b>Am</b>erican <b>E</b>nglish) </p>
 
 <h1 align="center"></h1>
 
