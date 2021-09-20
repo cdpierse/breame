@@ -12,9 +12,10 @@
         <img src="https://img.shields.io/pypi/v/breame?label=version"/> 
     </a>
 </p>
+
 Breame is a lightweight Python package with a number of utility tools to aid in the detection of words that have dual spellings in British and American English.
 
-Breame can also be used to detect and provide definitions for words that have different meanings in both British English and American English. 
+Breame can also be used to detect and provide definitions for words that have different meanings in both British English and American English.
 
 Additionally, Breame includes some tooling to detect and define words and phrases that are specific to British English or American English i.e. "strop" in British English or "mailman" in American English.
 
@@ -67,6 +68,7 @@ get_meaning_definitions("football")
 ### Detect whether a word is specific to American English or British English
 
 American:
+
 ```python
 from breame.terminology import is_american_english_term, get_american_term_definition
 
@@ -77,12 +79,12 @@ get_american_term_definition("bleachers")
 ```
 
 British
-```python
-from breame.terminology import is_british_english_term, get_british_term_definition    
 
-is_british_english_term("wellies") 
+```python
+from breame.terminology import is_british_english_term, get_british_term_definition
+
+is_british_english_term("wellies")
 >>> True
-get_british_term_definition("wellies")     
+get_british_term_definition("wellies")
 >>> 'Wellington boots, waterproof rubber boots named after the Duke of Wellington.'
 ```
-
