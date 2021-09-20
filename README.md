@@ -106,7 +106,7 @@ Stats for some of the data constants used throughout the package
 
 ## Acknowledgements
 
-This package was inspired by the javascript library [American British English Translator](https://github.com/hyperreality/American-British-English-Translator#american-british-english-translator) by @hyperreality and @jessp01 . All of the data constants used are gratefully used throughout breame.
+This package was inspired by the javascript library [American British English Translator](https://github.com/hyperreality/American-British-English-Translator#american-british-english-translator) by [@hyperreality](https://github.com/hyperreality) and [@jessp01](https://github.com/jessp01) . All of the data constants used are gratefully used throughout breame.
 
 The sources for [American British English Translator](https://github.com/hyperreality/American-British-English-Translator#american-british-english-translator) constants are below:
 
