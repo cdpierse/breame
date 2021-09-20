@@ -88,3 +88,5 @@ is_british_english_term("wellies")
 get_british_term_definition("wellies")
 >>> 'Wellington boots, waterproof rubber boots named after the Duke of Wellington.'
 ```
+
+## Acknowlegments

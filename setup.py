@@ -24,7 +24,7 @@ setup(
     ),
     version="0.1.0",
     license="Apache-2.0",
-    description="Breame is a lightweight Python package with a number of utility tools to aid in the detection of words that have dual spellings and meanings in British and American English.",
+    description="Breame is a lightweight Python package with a number of tools to aid in the detection of words that have dual spellings and meanings in British and American English.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Charles Pierse",
@@ -35,7 +35,7 @@ setup(
         "natural language proessing",
         "utility library",
         "spelling",
-        "search engine"
+        "search engine",
     ],
     classifiers=[
         "Development Status :: 3 - Alpha",  # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
