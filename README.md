@@ -90,4 +90,16 @@ get_british_term_definition("wellies")
 >>> 'Wellington boots, waterproof rubber boots named after the Duke of Wellington.'
 ```
 
-## Acknowlegments
+## Acknowledgements
+
+This package was inspired by the javascript library [American British English Translator](https://github.com/hyperreality/American-British-English-Translator#american-british-english-translator) by @hyperreality and @jessp01 . All of the data constants used are gratefully used throughout breame.
+
+The sources for [American British English Translator](https://github.com/hyperreality/American-British-English-Translator#american-british-english-translator) constants are below:
+
+Uses modified versions of the following lists:
+
+- [List of words having different meanings in American and British English: A-L](https://en.wikipedia.org/wiki/List_of_words_having_different_meanings_in_British_and_American_English:_A%E2%80%93L)
+- [List of words having different meanings in American and British English: M-Z](https://en.wikipedia.org/wiki/List_of_words_having_different_meanings_in_British_and_American_English:_M%E2%80%93Z)
+- [Glossary of American terms not widely used in the United Kingdom](https://en.wikipedia.org/wiki/List_of_American_words_not_widely_used_in_the_United_Kingdom)
+- [Glossary of British terms not widely used in the United States](https://en.wikipedia.org/wiki/List_of_British_words_not_widely_used_in_the_United_States)
+- [Comprehensive list of American and British spelling differences](http://www.tysto.com/uk-us-spelling-list.html)
