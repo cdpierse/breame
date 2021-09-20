@@ -98,7 +98,7 @@ If you would like to contribute to the package or add to the data constants used
 
 Stats for some of the data constants used throughout the package
 
-- \>= **690** words with more multiple meanings covered in British, American, and Common English.
+- \>= **690** words with multiple meanings covered in British, American, and Common English.
 - \>= **321** American English specific words or phrases.
 - \>= **605** British English specific words or phrases.
 - \>= **1730** British English spellings for American English words. `get_british_spelling()`
