@@ -65,7 +65,7 @@ get_meaning_definitions("football")
  'British English': '(usually) Association football (US: soccer). Less frequently applies to \nRugby football (espec. Rugby union in English private schools).'}
 ```
 
-### Detect whether a word is specific to American English or British English
+### Detect whether a word is a term or short phrase specific to American English or British English
 
 American:
 
@@ -78,7 +78,7 @@ get_american_term_definition("bleachers")
 >>> 'are the raised open air tiered rows of seats (stands) found at sports fields or at other spectator events'
 ```
 
-British
+British:
 
 ```python
 from breame.terminology import is_british_english_term, get_british_term_definition
