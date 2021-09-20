@@ -12,7 +12,11 @@
         <img src="https://img.shields.io/pypi/v/breame?label=version"/> 
     </a>
 </p>
-Breame is a lightweight Python package with a number of utility tools to aid in the detection of words that have dual spellings in British and American English. Breame can also be used to detect and provide definitions for words that have different meanings in both British English and American English. Additionally, Breame includes some tooling to detect and define words and phrases that are specific to British English or American English i.e. "strop" in British English or "mailman" in American English.
+Breame is a lightweight Python package with a number of utility tools to aid in the detection of words that have dual spellings in British and American English.
+
+Breame can also be used to detect and provide definitions for words that have different meanings in both British English and American English. 
+
+Additionally, Breame includes some tooling to detect and define words and phrases that are specific to British English or American English i.e. "strop" in British English or "mailman" in American English.
 
 ## Install
 
