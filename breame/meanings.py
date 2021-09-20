@@ -2,7 +2,7 @@ from breame.data.meaning_constants import DIFFERENT_MEANINGS_US_UK_COMMON
 from breame.utils import process_word
 
 
-def multiple_meanings_exist(word: str) -> bool:
+def different_meanings_exist(word: str) -> bool:
     """
     Checks if the word has multiple meanings American, British, or Common English.
     Returns True if the word has multiple meanings, False otherwise.
