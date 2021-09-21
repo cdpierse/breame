@@ -32,7 +32,7 @@ pip install breame
 
 ### Spelling Detection and Conversion
 
-Check American and British English Spelling for words exists:
+Check if both an American and British English Spelling for a word exists:
 
 ```python
 from breame.spelling import american_spelling_exists, british_spelling_exists
