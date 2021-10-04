@@ -1,6 +1,6 @@
 # Breame
 
-<p align="center"> ( <b>Br</b>itish <b>E</b>nglish and <b>Am</b>erican <b>E</b>nglish Language Tools) </p>
+<p align="center"> ( <b>Br</b>itish <b>E</b>nglish and <b>Am</b>erican <b>E</b>nglish) </p>
 
 <h1 align="center"></h1>
 
@@ -16,7 +16,7 @@
 
 Breame is a lightweight Python package with a number of utility tools to aid in the detection of words that have dual spellings in British and American English.
 
-Breame can also be used to detect and provide definitions for words that have different meanings in both British English and American English.
+Breame can also be used to detect and provide definitions for words that have different meanings in both British English, American English, and Common English. 
 
 Additionally, Breame includes some tooling to detect and define words and phrases that are specific to British English or American English i.e. "strop" in British English or "mailman" in American English.
 
@@ -32,7 +32,7 @@ pip install breame
 
 ### Spelling Detection and Conversion
 
-Check American and British English Spelling for words exists:
+Check if both an American and British English Spelling for a word exists:
 
 ```python
 from breame.spelling import american_spelling_exists, british_spelling_exists
