@@ -22,7 +22,7 @@ setup(
             "test",
         ]
     ),
-    version="0.1.0",
+    version="0.1.2",
     license="Apache-2.0",
     description="Breame is a lightweight Python package with a number of tools to aid in the detection of words that have dual spellings and meanings in British and American English.",
     long_description=long_description,
